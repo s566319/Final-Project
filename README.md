@@ -1,4 +1,6 @@
 # Final Project: Article Summarizer
+# Student: Inga Miller
+# GitHub Repo: https://github.com/s566319/Final-Project
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
